@@ -1,7 +1,6 @@
-# 🍰 Bolo no Pote Store
-
+🍰 Bolo no Pote Store
+Modern Ecommerce Platform for Businesses 🍰 
 Site moderno para venda de bolos no pote.
-
 ## Funcionalidades
 
 - Catálogo de produtos
